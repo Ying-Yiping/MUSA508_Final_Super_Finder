@@ -21,11 +21,24 @@ a:link {
   text-decoration: none;
 }
 
+a:visited {
+  color: #8c96c6;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 a:hover {
   color: #88419d;
   background-color: transparent;
   text-decoration: underline;
 }
+
+a:active {
+  color: #88419d;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 </style>
 
 [**Youtube Link**](https://www.youtube.com/watch?v=PHoWrOwETd4)
